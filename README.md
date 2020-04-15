@@ -1,3 +1,2 @@
 # codewars
-
-These are my solutions to various Codewars problems
+<img src='https://www.codewars.com/users/cloudkevin/badges/large' /> 
